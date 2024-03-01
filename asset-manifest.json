@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stayselect/static/css/main.f855e6bc.css",
+    "main.js": "/stayselect/static/js/main.61495bd5.js",
+    "static/js/453.3838492a.chunk.js": "/stayselect/static/js/453.3838492a.chunk.js",
+    "index.html": "/stayselect/index.html",
+    "main.f855e6bc.css.map": "/stayselect/static/css/main.f855e6bc.css.map",
+    "main.61495bd5.js.map": "/stayselect/static/js/main.61495bd5.js.map",
+    "453.3838492a.chunk.js.map": "/stayselect/static/js/453.3838492a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.61495bd5.js"
+  ]
+}
